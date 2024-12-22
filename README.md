@@ -40,6 +40,6 @@ python main.py
 - `+rank username#tag` : Affiche le rang Valorant d'un joueur.
 
 
-## Auteur/Développeur
-Ce projet a été développé par [jiaxi](https://github.com/emmamrgn).
+## Développeur
+Ce projet a été développé par [emmamrgn](https://github.com/emmamrgn).
 
